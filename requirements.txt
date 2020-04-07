@@ -1,0 +1,7 @@
+# Pip packages
+pip install jupyter \
+            pysqlite2 \
+            numpy \
+            matplotlib \
+            datapackage \
+            pandas
